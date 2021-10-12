@@ -45,13 +45,13 @@ $coins = array(
 $coin = current($coins);
 
 c();
-echo col('Script by ','h').col('iewil','h').$n2;
+echo col('Script by ','h').col('iewil','p').$n2;
 
 $user_agent=readline(col('Input user-agent : ','c'));
 $cookie=readline(col('Input Cookie : ','c'));
 
 c();
-	echo col('Script by ','h').col('iewil','h').$n;
+	echo col('Script by ','h').col('iewil','p').$n;
 
 $ua = array();
 $ua[] = "User-Agent: ".$user_agent;
